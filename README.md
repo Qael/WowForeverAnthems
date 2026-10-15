@@ -1,4 +1,4 @@
-﻿# WoW Forever Anthems
+# WoW Forever Anthems
 
 These are free songs for the WoW Forever community. I made them for the PvP videos, battlegrounds and late-night world PvP that keep this game alive, and I hope you enjoy them.
 
@@ -13,6 +13,8 @@ New songs are added here as they premiere on the WoW Forever Anthems YouTube cha
 | Song | Folder | Files |
 | --- | --- | --- |
 | For the Horde | `factions/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Frostbolt Fireball | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Darkness is Mine | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 
 ## Submit your clips
 
