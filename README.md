@@ -18,10 +18,15 @@ New songs are added here as they premiere on the WoW Forever Anthems YouTube cha
 | Legends Never Die | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Rise Again | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Frontline | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Wolf in Me | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 
-## Submit your clips
+## Video submissions
 
-Made a PvP video, montage or stream highlight with one of these songs? We'd love to see it. Share it in the **Submit your clips** category of [GitHub Discussions](https://github.com/Qael/WowForeverAnthems/discussions). Include a link to your clip, the song you used and the name you'd like credited. Favorite clips may be featured on the WoW Forever Anthems YouTube channel, always with credit to you.
+Made a PvP video, montage or stream highlight with one of these songs? We'd love to see it. Share it in the [**Video submissions**](https://github.com/Qael/WowForeverAnthems/discussions/categories/video-submissions) category of GitHub Discussions. Include a link to your clip, the song you used and the name you'd like credited. Favorite clips may be featured on the WoW Forever Anthems YouTube channel, always with credit to you.
+
+## Community
+
+Come hang out, share clips and suggest new anthems on the [WoW Forever Anthems Discord](https://discord.gg/Bx4XxAYDMb).
 
 ---
 
