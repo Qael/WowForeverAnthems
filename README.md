@@ -16,6 +16,8 @@ New songs are added here as they premiere on the WoW Forever Anthems YouTube cha
 | Frostbolt Fireball | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Darkness is Mine | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Legends Never Die | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Rise Again | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Frontline | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 
 ## Submit your clips
 
