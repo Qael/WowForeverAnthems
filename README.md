@@ -21,6 +21,7 @@ New songs are added here as they premiere on the WoW Forever Anthems YouTube cha
 | Wolf in Me | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Living on the Brink | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | From The Shadows | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| In The Light | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 
 ## Video submissions
 
