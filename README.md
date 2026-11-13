@@ -26,6 +26,7 @@ New songs are added here as they premiere on the WoW Forever Anthems YouTube cha
 | For Glory and Honor | `factions/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | Run With the Wild | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 | We Run This Town | `pvp/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
+| Wrath of the Wild | `classes/` | MP3, lyrics (`.txt`), subtitles (`.srt`) |
 
 ## Video submissions
 
